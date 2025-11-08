@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		F858FD4A2EBEB26F00CEFA6E /* ChineseApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChineseApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F858FD4A2EBEB26F00CEFA6E /* ChineseApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = ChineseApp.app; path = "/Users/BillyOrr/Desktop/ChineseApp/build/Debug-iphoneos/ChineseApp.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				F858FD4C2EBEB26F00CEFA6E /* ChineseApp */,
-				F858FD4B2EBEB26F00CEFA6E /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		F858FD4B2EBEB26F00CEFA6E /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				F858FD4A2EBEB26F00CEFA6E /* ChineseApp.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = F858FD412EBEB26F00CEFA6E;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = F858FD4B2EBEB26F00CEFA6E /* Products */;
+			productRefGroup = F858FD412EBEB26F00CEFA6E;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
